@@ -51,7 +51,7 @@
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Programming-Languages-and-Logic/blob/master/cpo(26).pdf" style="text-decoration:none;"> Recursive Functions of Symbolic Expressions and Their Computation by Machine, Part I</a></b></li>
 
  
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Programming-Languages-and-Logic/blob/master/cpo(27).pdf" style="text-decoration:none;">Defifinitional interpreters for higher-order programming languages</a></b></li>
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Programming-Languages-and-Logic/blob/master/cpo(27).pdf" style="text-decoration:none;">Definitional interpreters for higher-order programming languages</a></b></li>
                                
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Classic-Papers-in-Programming-Languages-and-Logic/blob/master/cpo(28).pdf" style="text-decoration:none;">Fundamental Concepts in Programming Languages</a></b></li>     
   
